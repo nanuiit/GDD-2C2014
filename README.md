@@ -10,7 +10,7 @@
 Legajo | Apellido, Nombre | email | 
  ------------- | ------------- | -------------
 138.822-8 | Mauro, Leandro | lemmau@hotmail.com.
--| * | .
+138.132-5 | Nadia Piris Da Motta | nadia.pdm@gmail.com
 -| * | .
 -| * | .
 
